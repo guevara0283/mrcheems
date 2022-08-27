@@ -1,0 +1,88 @@
+.place-time img-fluid 
+{
+    height: -50px;
+    width: -50px;
+}
+nav 
+{
+    background: linear-gradient(90deg,#c96a12,#d3a921 25%, #c96a12)
+}
+
+header img
+{
+    width: 50px;
+
+}
+main .carousel-inner img
+{
+    max-height: 70vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+.text-platzi
+{
+    color: #97c93e  !important; 
+}
+main
+{
+    text-decoration: none;
+}
+.btn-platzi
+{
+    background-color: #97c93e;
+    color: white;
+}
+.btn-platzi:hover
+{
+    background-color: #82ad36;
+    color: white;
+}
+
+place-time 
+{
+    background-color: #2f6192;
+}
+
+place-time img
+{
+    width: -10px;
+    
+}
+footer
+{
+    background: linear-gradient(90deg,#c96a12,#d3a921 25%, #c96a12)
+}
+footer a
+{
+    color: white;
+    text-decoration: none;
+}
+body a
+{
+    color: white;
+    text-decoration: none;
+}
+carousel-inner
+{
+    position: relative;
+    
+}
+.overlay
+{
+    z-index: 2;
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    
+    color: white;
+}
+carousel-inner .overlay .container
+{
+    height: 100%;
+}
+carousel-inner .overlay .row
+{
+    height: 100%;
+}
